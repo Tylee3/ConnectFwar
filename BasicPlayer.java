@@ -1,7 +1,3 @@
-//Project 2
-//By Tyler Hoffman
-//CSCI 1913
-
 public class BasicPlayer implements Player{
 
     /**
